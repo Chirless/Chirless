@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, my name is Chirless</h1>
 <h3 align="center">A passionate full stack developer from Türkiye</h3>
 
-- 🔭 I’m currently working on [athenaDev](https://discord.gg/athenadev)
+- 🔭 I’m currently working on [AthenaDEV](https://discord.gg/athenadev)
 - 📫 How to reach me **keremchirless@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
