@@ -1,6 +1,8 @@
 <h1 align="center">Hello 👋, my name is Chirless</h1>
 <h3 align="center">A passionate full stack developer from Türkiye</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chirless&label=Profile%20views&color=0e75b6&style=flat" alt="chirless" /> </p>
+
 - 🔭 I’m currently working on [AthenaDEV](https://discord.gg/athenadev)
 - 📫 How to reach me **keremchirless@gmail.com**
 
