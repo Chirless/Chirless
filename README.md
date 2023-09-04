@@ -17,4 +17,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chirless&theme=dark" alt="chirless" /></p>
 
-<p style="width: 100%;"><img style="margin: 0 auto;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chirless&show_icons=true&theme=dark&locale=en&layout=compact" alt="chirless" /></p>
+<p style="display: flex; justify-content: center;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chirless&show_icons=true&theme=dark&locale=en&layout=compact" alt="chirless" /></p>
